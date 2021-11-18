@@ -1,0 +1,38 @@
+.heading{
+    width: 100%;
+    text-align:left;
+}
+
+.heading h3{
+display: inline;
+}
+
+.Mario{
+    width: 100%;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid rgb(7, 93, 253);
+}
+
+#start_btn,#status{
+    font-size: 22px;
+    
+
+}
+
+h4{
+    background-color: aqua;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+width: 90%;
+}
+
+.instructions_image{
+    display: inline-block;
+    width: 45%;
+}
